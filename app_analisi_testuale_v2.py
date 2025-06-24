@@ -1,5 +1,3 @@
-pip install -r requirements.txt
-streamlit run app_analisi_testuale_v2.py
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
